@@ -47,4 +47,4 @@
  * I'm currently working on 🔭 building **Web Apps using NextJS** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume]([https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link](https://docs.google.com/document/d/11gsYQS4c5_yCRqB_YbfBx1bcUObD2X6Z/edit?usp=drive_link&ouid=111521695315263198854&rtpof=true&sd=true)https://docs.google.com/document/d/11gsYQS4c5_yCRqB_YbfBx1bcUObD2X6Z/edit?usp=drive_link&ouid=111521695315263198854&rtpof=true&sd=true])
+ - :octocat: [My Resume](https://drive.google.com/document/d/11gsYQS4c5_yCRqB_YbfBx1bcUObD2X6Z/edit?usp=drive_link&ouid=111521695315263198854&rtpof=true&sd=true)
