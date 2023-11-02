@@ -47,4 +47,5 @@
  * I'm currently working on 🔭 building **Web Apps using NextJS** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
- - :octocat: [My Resume](https://drive.google.com/document/d/11gsYQS4c5_yCRqB_YbfBx1bcUObD2X6Z/edit?usp=drive_link&ouid=111521695315263198854&rtpof=true&sd=true)
+ - [My Resume] (https://drive.google.com/document/d/11gsYQS4c5_yCRqB_YbfBx1bcUObD2X6Z/edit?usp=drive_link&ouid=111521695315263198854&rtpof=true&sd=true)
+ - [My Linkedin Profile] (https://www.linkedin.com/in/guillermo-tays-8438a9201/)
