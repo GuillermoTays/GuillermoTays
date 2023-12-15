@@ -10,9 +10,9 @@
 * React
 * Vue
 * Angular
+* PHP
 * Node.js
 * C#, .NET
-* PHP
 * RoR
 
 ## Programming Languages
